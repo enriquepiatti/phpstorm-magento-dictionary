@@ -9,6 +9,6 @@ Install
 -------
 Go to "Preferences\Spelling", select "Dictionaries" tab and add path to the directory where `magento.dic` is stored to "Custom Dictionaries Folder" list.
 
-Note:
+Note
 -------
 This is an ongoing project. Dictionary is updated one new exceptions are found. Pull requests are appreciated.
