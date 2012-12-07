@@ -1,6 +1,8 @@
 addto
 addtocart
 authorizenet
+attributeset
+attributesets
 callout
 callouts
 cataloginventory
@@ -25,6 +27,9 @@ iframe
 irubin
 leftnav
 logoutsuccess
+firstname
+irubin
+lastname
 mage
 magento
 magentocommerce
