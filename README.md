@@ -1,4 +1,4 @@
-Magneto Dictionary for PhpStorm
+Magento Dictionary for PhpStorm
 ===========================
 
 Overview
