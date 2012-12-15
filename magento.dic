@@ -59,6 +59,7 @@ qtyincrements
 resetforgottenpassword
 resetpassword
 rgba
+rma
 searchterm
 salesrule
 scriptaculous
@@ -66,6 +67,7 @@ sendfriend
 shippingmethods
 signup
 sitemap
+solr
 stockqty
 storecredit
 tierprices
