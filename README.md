@@ -3,7 +3,7 @@ Magento Dictionary for PhpStorm
 
 Overview
 -------
-Magento has some specific words which PhpSorm fairly marks as typos. This dictionary file solves this issue and keeps your inspector status all green.
+Magento has some specific words which PhpStorm fairly marks as typos. This dictionary file solves this issue and keeps your inspector status all green.
 
 Install
 -------
