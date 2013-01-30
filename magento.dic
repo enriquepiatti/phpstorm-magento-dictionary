@@ -1,6 +1,7 @@
 addto
 addtocart
 adminhtml
+async
 authorizenet
 attributeset
 attributesets
@@ -43,6 +44,7 @@ noscript
 notifystock
 nullable
 onepage
+opcheckout
 mecl
 mmdb
 multishipping
