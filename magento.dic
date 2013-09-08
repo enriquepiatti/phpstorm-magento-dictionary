@@ -46,6 +46,7 @@ notifystock
 nullable
 onepage
 opcheckout
+pageid
 mecl
 mmdb
 multishipping
