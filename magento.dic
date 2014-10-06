@@ -60,6 +60,7 @@ pbridge
 phpunit
 phtml
 placeform
+predispatch
 productalert
 purchaseorder
 qtyincrements
